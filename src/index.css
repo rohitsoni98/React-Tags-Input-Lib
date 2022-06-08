@@ -8,8 +8,10 @@ div.ReactTags__tagInput {
   border-radius: 2px;
   display: inline-block;
 }
+
 .ReactTags__remove {
   margin: 0 10px;
+  cursor: pointer;
 }
 div.ReactTags__tagInput input.ReactTags__tagInputField,
 div.ReactTags__tagInput input.ReactTags__tagInputField:focus {
